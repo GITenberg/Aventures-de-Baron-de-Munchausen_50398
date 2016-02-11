@@ -1,0 +1,47 @@
+_repo: Aventures-de-Baron-de-Munchausen_50398
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dorè, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dore, Gustave
+    - Doré, Louis Auguste Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translators:
+  - agent_name: Théophile
+    gutenberg_agent_id: '45878'
+    url: http://www.gutenberg.org/2009/agents/45878
+  - agent_name: Gautier, fils
+    gutenberg_agent_id: '45879'
+    url: http://www.gutenberg.org/2009/agents/45879
+creator:
+  authors:
+  - agent_name: Raspe, Rudolph Erich
+    gutenberg_agent_id: '41901'
+    url: http://www.gutenberg.org/2009/agents/41901
+  - agent_name: Bürger, Gottfried August
+    alias: Burger, Gottfried August
+    birthdate: 1747
+    deathdate: 1794
+    gutenberg_agent_id: '5748'
+    url: http://www.gutenberg.org/2009/agents/5748
+    wikipedia: http://en.wikipedia.org/wiki/Gottfried_August_B%C3%BCrger
+description: ''
+gutenberg_bookshelf:
+- FR Humour
+- FR Nouveautés
+gutenberg_issued: '2015-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50398'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Aventures de Baron de Münchausen
+url: http://www.gutenberg.org/ebooks/50398
